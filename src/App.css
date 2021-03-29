@@ -1,0 +1,21 @@
+.menu{
+  display: flex;
+  justify-content: space-around;
+}
+.menu input{
+  width: 50%;
+  height: 35px;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+
+.star{
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.gold{
+  font-size: 30px;
+  cursor: pointer;
+  color: gold;
+}
